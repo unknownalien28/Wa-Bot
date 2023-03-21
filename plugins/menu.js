@@ -249,15 +249,15 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname, args, command}) => {
    {
 	title: `${htki} ᴍᴀɪɴ ${htka}`,
 	rows: [
-	    {title: `⚡ ${pmenus} 𝚂𝙿𝙴𝙴𝙳 𝙱𝙾𝚃`, rowId: ".ping", description: "display bot response speed"},
-	    {title: `⏰ ${pmenus} 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 𝙱𝙾𝚃`, rowId: ".runtime", description: "display bot running time"}, 
-	    {title: `💌 ${pmenus} 𝙾𝚆𝙽𝙴𝚁 𝙱𝙾𝚃`, rowId: ".creator", description: "display info of bot owner"},
-	    {title: `📔 ${pmenus} 𝚂𝙲𝚁𝙸𝙿𝚃 𝙱𝙾𝚃`, rowId: ".sc", description: `𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 ${namebot}`},
+	    {title: `⚡ ${pmenus} SPEED BOT`, rowId: ".ping", description: "display bot response speed"},
+	    {title: `⏰ ${pmenus} RUNTIME BOT`, rowId: ".runtime", description: "display bot running time"}, 
+	    {title: `💌 ${pmenus} OWNER BOT`, rowId: ".creator", description: "display info of bot owner"},
+	    {title: `📔 ${pmenus} SCRIPT OF BOT`, rowId: ".sc", description: `𝚂𝚘𝚞𝚛𝚌𝚎 𝙲𝚘𝚍𝚎 ${namebot}`},
 	]
     },{
 	title: `${htki} sᴜᴘᴘᴏʀᴛ ${htka}`,
 	rows: [
-	    {title: `💹 ${pmenus} 𝙳𝙾𝙽𝙰𝚃𝙴`, rowId: ".donasi", description: 'support the owner to be more enthusiastic'},
+	    {title: `💹 ${pmenus} DONATE`, rowId: ".donasi", description: 'support the owner to be more enthusiastic'},
 	]
 	},{
 	title: `${htki} ᴍᴇɴᴜ ${htka}`,
@@ -305,14 +305,14 @@ let tek = `✧────···[ Dashboard ]···────✧
 ┴ ▸ *ᴏᴡɴᴇʀ :* xIKRATOSx
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
-│ Give me a break, SIS ^ω^
+│ Give me a break, Bro ^ω^
 ╰━━━━━━━━━━━━━━━━┈─◂`
 const listMessage = {
   text: tek,
   footer: wm2,
   mentions: await conn.parseMention(tek),
   title: ``,
-  buttonText: `Click Here ⎙`, 
+  buttonText: `CLICK ⎙`, 
   sections
 }
   if (teks == '404') {
