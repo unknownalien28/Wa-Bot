@@ -7,24 +7,24 @@
 
 > **Warning**: Don't Trade This Script
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">Wa Bot Md</h1>
 <p align="center">
   <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
- <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+ <a href="#"><img title="Wa Bot" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/sandaru07"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/94764497078">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
-  <a href="mailto:bmclips001@gmail.com">
+  <a href="mailto: mdsandaru2@gmail.com">
     <img align="left" alt="SIEGRIN | Gmail" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
 ---------
@@ -116,7 +116,7 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+git clone https://github.com/sandaru07/Wa-Bot
 cd Ikratos-MD-v1
 npm install
 npm update
@@ -132,7 +132,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+git clone https://github.com/sandaru07/Wa- others 
 cd Ikratos-MD-v1
 npm install
 npm update
@@ -191,7 +191,4 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 ----------
 
-<h1 align="center">THANKS TO</h1>
-<p align="center">
-<a href="https://github.com/BlackAmda"><img src="https://github.com/BlackAmda.png" width="300" height="300" alt="BlackAmda"/></a>
-</p>
+
